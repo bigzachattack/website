@@ -1,0 +1,13 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Resume"
+    url: /assets/cv_zhj.pdf
+  - title: "Dissertation"
+    url: /dissertation/
+#  - title: "Tags"
+#    url: /tags/
+#  - title: "Pages"
+#    url: /page-archive/
+#  - title: "Collections"
+#    url: /collection-archive/
