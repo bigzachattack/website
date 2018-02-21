@@ -5,8 +5,7 @@ author_profile: true
 toc: true
 ---
 
-Performance Engineer with 9 years of engineering and innovation experience driving performance changes into solutions; leading efforts across teams to wrangle, manage, and understand data; and championing efforts to embrace “the cloud”.
-
+Computer Scientist with 10 years of engineering and innovation experience driving performance changes into solutions; leading efforts across teams to wrangle, manage, and understand data; and championing efforts to embrace “the cloud”.
 ## Work Expierence & Projects ##
 ### Verizon Digital Media Services ###
 _2017 - Present_ Performance & Kernel Engineer
@@ -18,6 +17,7 @@ _2011-2017_ Performance Engineer & Analyst
 * Data Analytics Tools
   * Data Collection/Processing (Trafero)
   * ONTAP Analystics and Telemetry Services
+  * Integrate Jupyter/IPython into software engineering environment
 * Performance Analysis and Engineering
   * Software Defined Storage (ONTAP Cloud and Select)
   * File and Free-Space Defragmentation Technologies
@@ -35,5 +35,5 @@ _2010_ Research Intern
 * Video caputre and OCR Processing 
 
 ## Education ##
-* Clemson University
-* High Point University
+* PhD - 2010 - Clemson University
+* BS - 2006 - High Point University
