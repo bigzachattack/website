@@ -2,6 +2,26 @@ main:
   - title: "About"
     url: /about
   - title: "Resume"
-    url: /assets/cv_zhj.pdf
-  - title: "Dissertation"
-    url: /dissertation
+    url: /assets/files/cv_zhj.pdf
+  - title: "PhD Research"
+    url: /dissertation/overview
+
+
+dissertation:
+  - title: "Research"
+    children:
+      - title: "Overview"
+        url: /dissertation/overview
+  - title: "Modern Stuff"
+    children:
+      - title: "eBPF"
+        url: /
+      - title: "Live Patch"
+        url: /
+  - title: "Presentations"
+    children:
+      - title: "Defense"
+        url: /dissertation/defense
+      - title: "Proposal"
+        url: /dissertation/proposal
+

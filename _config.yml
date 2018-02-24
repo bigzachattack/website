@@ -233,6 +233,10 @@ tag_archive:
 #     category: /categories/:name/
 #     tag: /tags/:name/
 
+collections:
+  dissertation:
+    output: true
+    permalink: /:collection//:title/
 
 # HTML Compression
 # - http://jch.penibelst.de/
@@ -255,6 +259,7 @@ defaults:
   #    comments: # true
   #    share: true
   #    related: true
+
   # _pages
   - scope:
       path: ""
@@ -262,3 +267,11 @@ defaults:
     values:
       layout: single
       author_profile: false
+
+  - scope:
+      path: ""
+      type: dissertation
+    values:
+      layout: single
+      sidebar:
+        nav: "dissertation"
