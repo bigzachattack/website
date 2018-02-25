@@ -1,6 +1,6 @@
 main:
-  - title: "About"
-    url: /about
+#  - title: "About"
+#    url: /about
   - title: "Resume"
     url: /assets/files/cv_zhj.pdf
   - title: "PhD Research"
@@ -14,10 +14,8 @@ dissertation:
         url: /dissertation/overview
   - title: "Modern Stuff"
     children:
-      - title: "eBPF"
-        url: /
-      - title: "Live Patch"
-        url: /
+      - title: "eBPF (Coming Soon)"
+      - title: "Live Patch (Coming Soon)"
   - title: "Presentations"
     children:
       - title: "Defense"
