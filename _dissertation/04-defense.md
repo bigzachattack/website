@@ -18,9 +18,7 @@ classes:
 </a>
 
 ## Presentation ## 
-<div class="sixteen-nine-800w">
-<iframe style="border:none" class="content"
+<iframe style="border:none"
     allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"
     src="http://content.uplynk.com/player5/2107UfAR4LHwgGK7xitTCmea.html?autostart=0">
 </iframe>
-</div>

@@ -10,7 +10,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en"
-title                    : "Zachary H. Jones"
+title                    : "Homepage of Zachary H. Jones"
 title_separator          : "-"
 name                     : "Zachary H. Jones"
 description              : "Homepage of Zachary H. Jones"
@@ -244,6 +244,10 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+footer_scripts:
+  - /assets/js/main.min.js
+  - /assets/js/custom.js
 
 
 # Defaults
