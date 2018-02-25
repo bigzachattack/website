@@ -13,10 +13,10 @@ locale                   : "en"
 title                    : "Zachary H. Jones"
 title_separator          : "-"
 name                     : "Zachary H. Jones"
-description              : "Something descriptive."
-url                      : "http://beta.zacharyjones.us"
+description              : "Homepage of Zachary H. Jones"
+url                      : "http://www.zacharyjones.us"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "bigzachattack/bigzachattack.github.io"
+repository               : "bigzachattack/personal-website"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
