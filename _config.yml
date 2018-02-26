@@ -245,10 +245,6 @@ compress_html:
   ignore:
     envs: development
 
-footer_scripts:
-  - /assets/js/main.min.js
-  - /assets/js/custom.js
-
 
 # Defaults
 defaults:
