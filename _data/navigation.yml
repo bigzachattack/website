@@ -12,10 +12,10 @@ dissertation:
     children:
       - title: "Overview"
         url: /dissertation/overview
-  - title: "Modern Stuff"
-    children:
-      - title: "eBPF (Coming Soon)"
-      - title: "Live Patch (Coming Soon)"
+#  - title: "Modern Stuff"
+#    children:
+#      - title: "eBPF (Coming Soon)"
+#      - title: "Live Patch (Coming Soon)"
   - title: "Presentations"
     children:
       - title: "Defense"
