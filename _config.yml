@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme             : "mmistakes/minimal-mistakes@4.10.1"
+remote_theme             : "mmistakes/minimal-mistakes@4.16.4"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -16,7 +16,7 @@ name                     : "Zachary H. Jones"
 description              : "Homepage of Zachary H. Jones"
 url                      : "http://www.zacharyjones.us"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "bigzachattack/personal-website"
+repository               : "bigzachattack/website"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 200
@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Zachary H. Jones"
-  avatar           : "https://media.licdn.com/mpr/mpr/shrinknp_400_400/AAEAAQAAAAAAAAxbAAAAJGQ5NmMzMDk1LTNmYzQtNDM2MS1hMmFkLWRmMjBlN2UxYzVhMw.jpg"
+  avatar           : "/assets/files/headshot_large.jpeg"
   bio              : "Performance & Kernel Engineer at Verizon Digital Media Services"
   location         : "RTP, NC"
   email            :
