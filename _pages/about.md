@@ -6,15 +6,17 @@ toc: true
 ---
 
 Computer Scientist with 10 years of engineering and innovation experience driving performance changes into solutions; leading efforts across teams to wrangle, manage, and understand data; and championing efforts to embrace “the cloud”.
-## Work Expierence & Projects ##
-### Verizon Digital Media Services ###
+## Work Experience & Projects ##
+### Verizon Digital Media ###
+_2018 - Present_ Systems & Performance Architect<br/>
 _2017 - Present_ Performance & Kernel Engineer
 * Performance Test Methodology
-* Hardware & Linux Kernel Optimizations
+* Hardware Component Analysis 
+* Linux Kernel Optimizations
 
 ### NetApp ###
 _2011-2017_ Performance Engineer & Analyst
-* Data Analytics Tools
+* Data Analytic Tools
   * Data Collection/Processing (Trafero)
   * ONTAP Analystics and Telemetry Services
   * Integrate Jupyter/IPython into software engineering environment
@@ -32,7 +34,7 @@ _2007-2011_ Performance Engineer & Intern
 ### Toyata Racing Developement ###
 _2010_ Research Intern
 * Optimizing Simulation and Modeling Software
-* Video caputre and OCR Processing 
+* Video capture and OCR Processing 
 
 ## Education ##
 * PhD - 2010 - Clemson University

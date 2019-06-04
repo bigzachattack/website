@@ -10,8 +10,8 @@ author_profile: true
 
 Hello and welcome to my corner of the internet.
 
-I have been diving into performance problems for over 10 years. Problems have ranged from hardware tunning and kernel hacking to application and algorithm optimizations.
+I have been diving into performance problems for over 10 years. The problems have ranged from hardware tunning and kernel hacking to application and algorithm optimizations.
  
-It is not uncommong to find me taking detours into building analytic tools, since in my opinion, performacne analysis is a special case of data science. Currently, I am helping to build and strengthen performance and kernel engineering efforts at Verizon Digital Media.
+It is not uncommon to find me taking detours into building analytic tools, since in my opinion, performance analysis is a specialized data science workflow. Currently, I am helping to build and strengthen systems, performance, and kernel engineering efforts at Verizon Media.
 
 

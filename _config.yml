@@ -86,7 +86,7 @@ analytics:
 author:
   name             : "Zachary H. Jones"
   avatar           : "/assets/files/headshot_large.jpeg"
-  bio              : "Performance & Kernel Engineer at Verizon Digital Media Services"
+  bio              : "Systems & Performance Architect at Verizon Digital Media Services"
   location         : "RTP, NC"
   email            :
   uri              :
@@ -195,6 +195,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jemoji
+  - jekyll-include-cache
 
 # mimic GitHub Pages with --safe
 whitelist:
