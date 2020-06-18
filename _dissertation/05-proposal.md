@@ -20,5 +20,5 @@ classes:
 ## Proposal ## 
 <iframe style="border:none"
     allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"
-    src="http://content.uplynk.com/player5/20WFkGuHlE2wChHyFkXLq8ea.html?autostart=0">
+    src="//content.uplynk.com/player5/20WFkGuHlE2wChHyFkXLq8ea.html?autostart=0">
 </iframe>
