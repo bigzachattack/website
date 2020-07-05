@@ -5,14 +5,15 @@ author_profile: true
 toc: true
 ---
 
-Computer Scientist with 10 years of engineering and innovation experience driving performance changes into solutions; leading efforts across teams to wrangle, manage, and understand data; and championing efforts to embrace “the cloud”.
+Computer Scientist with 10+ years of engineering and innovation experience driving performance changes into solutions; leading efforts across teams to wrangle, manage, and understand data; and championing efforts to embrace “the cloud”.
 ## Work Experience & Projects ##
 ### Verizon Digital Media ###
 _2018 - Present_ Systems & Performance Architect<br/>
 _2017 - Present_ Performance & Kernel Engineer
 * Performance Test Methodology
-* Hardware Component Analysis 
-* Linux Kernel Optimizations
+* Hardware component analysis and system-level specifications
+* Linux kernel and software optimizations
+* XDP/eBPF developement for DDoS and load balancing
 
 ### NetApp ###
 _2011-2017_ Performance Engineer & Analyst
