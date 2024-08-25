@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme             : "mmistakes/minimal-mistakes@4.16.4"
+remote_theme             : "mmistakes/minimal-mistakes@4.26.2"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
@@ -14,7 +14,7 @@ title                    : "Homepage of Zachary H. Jones"
 title_separator          : "-"
 name                     : "Zachary H. Jones"
 description              : "Homepage of Zachary H. Jones"
-url                      : "https://www.zacharyjones.us"
+url                      : "https://www.zjones.phd"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "bigzachattack/website"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
